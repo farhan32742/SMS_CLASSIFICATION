@@ -78,12 +78,8 @@ If you want to contribute to this project, feel free to fork the repository, sub
 
 ---
 
-### **License**
-This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 ### **Contact**
 - GitHub: [farhan32742](https://github.com/farhan32742)
-- LinkedIn: [Farhan]([https://www.linkedin.com/in/farhan32742](https://www.linkedin.com/in/farhan-fayaz-1f?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- LinkedIn: [Farhan Fayaz]([https://www.linkedin.com/in/farhan32742](https://www.linkedin.com/in/farhan-fayaz-1f?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
